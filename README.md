@@ -9,7 +9,7 @@
 </a>
 
 ### Glad to see you here!  
-I'm second year computer science student.  
+I'm Third Year Computer Science Student.  
   
 
 <br/>  
