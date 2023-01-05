@@ -21,10 +21,10 @@ I'm second year computer science student.
 - 🔭 I’m currently study (Computer science and engineering)  
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently learning c++
   
 
-- ❓ Ask me about anything related to HTML and CSS.  
+- ❓ Ask me about anything related to python.  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
