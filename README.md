@@ -9,7 +9,7 @@
 </a>
 
 ### Glad to see you here!  
-I'm Third Year Computer Science Student.  
+I'm Final Year Computer Science Student.  
   
 
 <br/>  
@@ -21,7 +21,7 @@ I'm Third Year Computer Science Student.
 - 🔭 I’m currently study (Computer science and engineering)  
   
 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning DSA
   
 
 - ❓ Ask me about anything related to python.  
