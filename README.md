@@ -21,7 +21,7 @@ I'm Final Year Computer Science Student.
 - 🔭 I’m currently study (Computer science and engineering)  
   
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
   
 
 - ❓ Ask me about anything related to python.  
