@@ -1,86 +1,58 @@
-## Hey 👋, I'm Harshal Patil!  
-  
+## Hey 👋, I'm Harshal Patil!
 
 <a href="https://github.com/harsh721827" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/harshal-patil-a908591b4" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!  
-I'm Final Year Computer Science Student.  
-  
+### Glad to see you here!
+I'm a Computer Engineering graduate. I've worked as a **Data Analyst** and I build full stack web apps with the **MERN stack**.
 
-<br/>  
+<br/>
 
+## Rapidfire
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- 📊 Experience in data cleaning, validation, reporting and exploratory analysis with Python, SQL and Excel
+- 🌐 Build full stack apps with React.js, Node.js, Express.js and MongoDB
+- 🤖 Integrated the Google Gemini API into a real-time collaboration app
+- 🌱 Currently deepening my machine learning skills
+- ❓ Ask me about anything related to Python
+- 📍 Based in Pune, India
 
-- 🔭 I’m currently study (Computer science and engineering)  
-  
+<br/>
 
-- 🌱 I’m currently learning React
-  
+## Skills
 
-- ❓ Ask me about anything related to python.  
-  
+| Area | Tools |
+|---|---|
+| Languages | Python, JavaScript (ES6+), SQL, HTML5, CSS3 |
+| Web development | React.js, Node.js, Express.js, Django, REST APIs, Socket.io, Bootstrap |
+| Databases | MySQL, SQLite, MongoDB, Redis |
+| Data analysis | Excel, SQL, data cleaning, data visualization, dashboards, EDA |
+| Machine learning | Random Forest |
+| Tools | Git, GitHub, AWS (EC2), VS Code, npm |
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+<br/>
 
+## Featured projects
 
-</td><td valign="top" width="50%">
+**[DevCollab AI](https://github.com/harsh721827)** – Real-time collaborative development platform
+React.js, Node.js, Express.js, MongoDB, Redis, Socket.io, Google Gemini API
+Users create projects, add contributors and chat in real time. Mentioning `@ai` in chat brings in an AI coding assistant.
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+**[Weather Prediction System](https://github.com/harsh721827)** – IoT and machine learning
+Python, IoT sensors, Random Forest, dashboards
+Collects real-time environmental data and predicts weather with a Random Forest model, shown on live dashboards.
 
+**[Vidyarthi Portal](https://github.com/harsh721827)** – Student attendance management system
+React.js, REST APIs, React Router
+A responsive portal to manage student and faculty data.
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Get in touch
 
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harsh721827&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh721827&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=harsh721827&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+- LinkedIn: [linkedin.com/in/harshal-patil-a908591b4](https://linkedin.com/in/harshal-patil-a908591b4)
+- Email: harshalpatil6188@gmail.com
